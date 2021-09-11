@@ -9,6 +9,7 @@ Words["test"] = ["Noun",
 Words["fulminate"] = ["verb",
             "to send forth harsh criticisms or insults"]
 
+print("Test")
 print(Words["test"])
 
 
